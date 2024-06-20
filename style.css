@@ -69,3 +69,15 @@ body {
 .ativa {
     display: flex;
 }
+
+.more-info.red {
+    color: #BC0001;
+}
+
+.more-info.yellow {
+    color: #ffe866;
+}
+
+.more-info.blue {
+    color: #0069A2;
+}
