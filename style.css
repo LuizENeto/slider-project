@@ -75,9 +75,12 @@ body {
 }
 
 .more-info.yellow {
-    color: #ffe866;
+    color: #D9DD10;
 }
 
 .more-info.blue {
-    color: #0069A2;
+    color: #10ACDD;
+}
+.more-info.orange {
+    color: #A63A17;
 }
